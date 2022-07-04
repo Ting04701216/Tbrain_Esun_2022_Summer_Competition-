@@ -1,0 +1,13 @@
+dimsim==0.2.2
+pypinyin==0.46.0
+pyzhuyin==0.0.3
+pandas==1.0.1
+torch==1.10.0
+transformers==4.19.2
+datasets==2.2.1
+numpy==1.20.3
+fairseq==0.10.2
+scikit-learn==1.0.2
+tqdm==4.64.0
+ckiptagger==0.1.1
+Flask==1.1.1
